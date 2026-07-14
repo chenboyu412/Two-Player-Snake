@@ -1,2 +1,21 @@
-# Two-Player-Snake
-A two-player Snake game written in C++
+# Two-Player Snake Game
+
+使用 C++ 製作的雙人貪吃蛇遊戲。
+
+## 功能
+
+- 支援雙人遊玩
+- 食物隨機生成
+- 蛇身碰撞判定
+- 加速功能
+
+## 操作方式
+
+玩家一：
+- W：向上
+- A：向左
+- S：向下
+- D：向右
+
+玩家二：
+- 方向鍵控制
